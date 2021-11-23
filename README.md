@@ -7,17 +7,7 @@
 - 😸 Also working in personal projects
 - ☕️ Coffee types and herbalism are other of my interests!
 
-- I love this playlist:
-[<img align="left" alt="open.spotify.com/playlist/1Hf9QiYoODGHXZupYyzEQt?si=2a3626494bfb40f9" width="21px" src="images/spotify.png">][spotifyplaylist]
 
-
-### You can find me here:
-
-[<img align="left" alt="bokkoa.github.io/FCReloaded/" width="21px" src="images/monitor.png">][website]
-
-[<img align="left" alt="www.linkedin.com/in/bokkoa/" width="21px" src="images/linkedin.png">][linkedin]
-
-[<img align="left" alt="www.linkedin.com/in/bokkoa/" width="21px" src="images/gitlab.png">][gitlab]
 
 
 
