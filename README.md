@@ -1,4 +1,4 @@
-### Howdy!, I'm Felipe - aka Bokkoa 🤠
+### Howdy! I'm Felipe - aka Bokkoa 🤠
 
 
 ## I'm a Developer  <img src="images/laptop.png" width="25"/>
@@ -7,7 +7,7 @@
 - 😸 Also working in personal projects
 - ☕️ Coffee types and herbalism are other of my interests!
 
-- I love this playlist:
+- I love this playlist ->
 [<img alt="spotify" style="margin-left: 10px" width="21px" src="images/spotify.png" />][spotifyplaylist]
 
 
@@ -21,6 +21,24 @@
 
 <br />
 <br />
+
+## Favorite languages & tools
+<img align="left" alt="golang" width="25px" src="images/golang.png" />
+<img align="left" alt="react" width="25px" src="images/react.png" />
+<img align="left" alt="docker" width="25px" src="images/docker.png" />
+<img align="left" alt="python" width="25px" src="images/python.png" />
+<img align="left" alt="bootstrap" width="25px" src="images/bootstrap.png" />
+<img align="left" alt="gatsby" width="25px" src="images/gatsby.png" />
+<img align="left" alt="gitlab" width="25px" src="images/gitlab.png" />
+<img align="left" alt="js" width="25px" src="images/js.png" />
+<img align="left" alt="django" width="25px" src="images/django.png" />
+<img align="left" alt="angular" width="25px" src="images/angular.png" />
+<img align="left" alt="laravel" width="25px" src="images/laravel.png" />
+<img align="left" alt="typescript" width="25px" src="images/typescript.png" />
+<img align="left" alt="nest" width="25px" src="images/nest.png" />
+<img align="left" alt="mysql" width="25px" src="images/mysql.png" />
+<img align="left" alt="vue" width="25px" src="images/vue.png" />
+
 <br />
 <br />
 
