@@ -2,7 +2,7 @@
 
 
 ### I'm a Developer 
-![Laptop](images/laptop.png)
+<img src="images/laptop.png" width="10">
 
 
 [website]: https://bokkoa.github.io/FCReloaded/
