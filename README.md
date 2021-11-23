@@ -1,17 +1,32 @@
-### Howdy!, I'm Felipe - aka Bokkoa 🦈
+### Howdy!, I'm Felipe - aka Bokkoa 🤠
 
 
-### I'm a Developer  <img src="images/laptop.png" width="40">
+## I'm a Developer  <img src="images/laptop.png" width="25">
+
+- 🦈 Currently working as backend dev
+- 😸 Also working in personal projects
+- ☕️ Coffee types and herbalism are other of my interests!
+
+- I love this playlist:
+[<img align="left" alt="open.spotify.com/playlist/1Hf9QiYoODGHXZupYyzEQt?si=2a3626494bfb40f9" width="21px" src="images/spotify.png">][spotifyplaylist]
 
 
-[website]: https://bokkoa.github.io/FCReloaded/
+### You can find me here:
 
-[linkedin]: https://www.linkedin.com/in/bokkoa/
+[<img align="left" alt="bokkoa.github.io/FCReloaded/" width="21px" src="images/monitor.png">][website]
 
-[spotifyplaylist]: https://open.spotify.com/playlist/4o4LqAzenKDPrJeE8eoI6O
+[<img align="left" alt="www.linkedin.com/in/bokkoa/" width="21px" src="images/linkedin.png">][linkedin]
+
+[<img align="left" alt="www.linkedin.com/in/bokkoa/" width="21px" src="images/gitlab.png">][gitlab]
 
 
 
 [![Bokkoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bokkoa&show_icons=true&theme=radical)](https://github.com/Bokkoa/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bokkoa&show_icons=true&theme=radical)](https://github.com/Bokkoa/github-readme-stats)
+
+
+[website]:https://bokkoa.github.io/FCReloaded/
+[linkedin]:https://www.linkedin.com/in/bokkoa/
+[gitlab]:https://gitlab.com/Bokkoa
+[spotifyplaylist]:https://open.spotify.com/playlist/1Hf9QiYoODGHXZupYyzEQt?si=2a3626494bfb40f9
