@@ -20,6 +20,9 @@
 [<img align="left" alt="bokkoa | gitlab" width="21px" src="images/gitlab.png" />][gitlab]
 
 <br />
+<br />
+<br />
+<br />
 
 [![Bokkoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bokkoa&show_icons=true&theme=radical)](https://github.com/Bokkoa/github-readme-stats)
 
