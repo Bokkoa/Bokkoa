@@ -1,15 +1,25 @@
 ### Howdy!, I'm Felipe - aka Bokkoa 🤠
 
 
-## I'm a Developer  <img src="images/laptop.png" width="25">
+## I'm a Developer  <img src="images/laptop.png" width="25"/>
 
 - 🦈 Currently working as backend dev
 - 😸 Also working in personal projects
 - ☕️ Coffee types and herbalism are other of my interests!
 
+- I love this playlist:
+[<img align="left" alt="spotify" width="21px" src="images/spotify.png" />][spotifyplaylist]
 
 
+### You can find me here:
 
+[<img align="left" alt="bokkoa.github.io/FCReloaded/" width="21px" src="images/monitor.png" />][website]
+
+[<img align="left" alt="bokkoa | linkedin" width="21px" src="images/linkedin.png" />][linkedin]
+
+[<img align="left" alt="bokkoa | gitlab" width="21px" src="images/gitlab.png" />][gitlab]
+
+<br />
 
 [![Bokkoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bokkoa&show_icons=true&theme=radical)](https://github.com/Bokkoa/github-readme-stats)
 
