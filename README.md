@@ -8,7 +8,7 @@
 - ☕️ Coffee types and herbalism are other of my interests!
 
 - I love this playlist:
-[<img alt="spotify" width="21px" src="images/spotify.png" />][spotifyplaylist]
+[<img alt="spotify" style="margin-left: 10px" width="21px" src="images/spotify.png" />][spotifyplaylist]
 
 
 ### You can find me here:
