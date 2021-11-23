@@ -15,7 +15,7 @@
 
 [<img align="left" alt="bokkoa.github.io/FCReloaded/" width="21px" src="images/monitor.png" />][website]
 
-[<img align="left" alt="bokkoa | linkedin" width="21px" src="images/linkedin.png" />][linkedin]
+[<img alt="bokkoa | linkedin" width="21px" src="images/linkedin.png" />][linkedin]
 
 [<img align="left" alt="bokkoa | gitlab" width="21px" src="images/gitlab.png" />][gitlab]
 
