@@ -1,7 +1,7 @@
 ### Howdy!, I'm Felipe - aka Bokkoa 🦈
 
 
-### I'm a Developer
+### I'm a Developer ![Laptop]("./images/laptop.png" | width=10)
 
 
 [website]: https://bokkoa.github.io/FCReloaded/
