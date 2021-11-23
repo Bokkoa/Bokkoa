@@ -8,14 +8,14 @@
 - ☕️ Coffee types and herbalism are other of my interests!
 
 - I love this playlist:
-[<img align="right" alt="spotify" width="21px" src="images/spotify.png" />][spotifyplaylist]
+[<img alt="spotify" width="21px" src="images/spotify.png" />][spotifyplaylist]
 
 
 ### You can find me here:
 
 [<img align="left" alt="bokkoa.github.io/FCReloaded/" width="21px" src="images/monitor.png" />][website]
 
-[<img alt="bokkoa | linkedin" width="21px" src="images/linkedin.png" />][linkedin]
+[<img align="left" alt="bokkoa | linkedin" width="21px" src="images/linkedin.png" />][linkedin]
 
 [<img align="left" alt="bokkoa | gitlab" width="21px" src="images/gitlab.png" />][gitlab]
 
