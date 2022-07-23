@@ -1,9 +1,9 @@
 ### Howdy! I'm Felipe - aka Bokkoa 🤠
 
 
-## I'm a Developer  <img src="images/laptop.png" width="25"/>
+## I'm a Software Engineer  <img src="images/laptop.png" width="25"/>
 
-- 🦈 Currently working as backend dev
+- 🦈 Currently working as techlead developer
 - 😸 Also working in personal projects
 - ☕️ Coffee types and herbalism are other of my interests!
 
