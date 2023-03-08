@@ -25,9 +25,6 @@
 ## Favorite languages & tools
 <img align="left" alt="react" width="30px" src="images/react.png" />
 <img align="left" alt="docker" width="30px" src="images/docker.png" />
-<img align="left" alt="gitlab" width="30px" src="images/gitlab.png" />
-<img align="left" alt="django" width="30px" src="images/django.png" />
-<img align="left" alt="laravel" width="30px" src="images/laravel.png" />
 <img align="left" alt="typescript" width="30px" src="images/typescript.png" />
 <img align="left" alt="nest" width="30px" src="images/nest.png" />
 <img align="left" alt="mysql" width="30px" src="images/mysql.png" />
