@@ -1,11 +1,11 @@
-### Howdy! I'm Felipe - aka Bokkoa 🤠
+### Hello! I'm Felipe
 
 
-## I'm a Software Engineer  <img src="images/laptop.png" width="25"/>
+## Software Engineer n Coffee Lover  <img src="images/laptop.png" width="25"/>
 
 - 🦈 Currently working as techlead developer
-- 😸 Working in personal projects also!
-- ☕️ Coffee brews, herbalism and videogames are other of my interests!
+- 😸 Working in personal projects too!
+- ☕️ Coffee brews, books and videogames are other of my interests!
 
 - I love this playlist ->
 [<img alt="spotify" style="margin-left: 10px" width="21px" src="images/spotify.png" />][spotifyplaylist]
