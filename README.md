@@ -3,7 +3,7 @@
 
 ## Software Engineer n Coffee Lover  <img src="images/laptop.png" width="25"/>
 
-- 🦈 Currently working as techlead developer
+- 🦈 Currently working as senior software engineer
 - 😸 Working on personal projects too!
 - ☕️ Coffee brews, books and videogames are other of my interests!
 
