@@ -1,5 +1,5 @@
 ### Hello! I'm Felipe
-
+![giphy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhhOXhpMjZzeHRyanBuaHJ1eW1xNDMxN2ttdmh2MDRiNXZrcmthcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtVSBEzjz599tgxg9V/giphy.gif)
 
 ## Software Engineer n Coffee Lover  <img src="images/laptop.png" width="25"/>
 
@@ -20,7 +20,8 @@
 [<img align="left" alt="bokkoa | gitlab" width="21px" src="images/gitlab.png" />][gitlab]
 
 <br />
-<br />
+
+
 
 ## Stack
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
@@ -52,10 +53,7 @@
 
 <br />
 <br />
-<br />
-<br />
 
-[![Bokkoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bokkoa&show_icons=true&theme=radical)](https://github.com/Bokkoa/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bokkoa&show_icons=true&theme=radical)](https://github.com/Bokkoa/github-readme-stats)
 
