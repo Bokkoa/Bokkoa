@@ -1,27 +1,17 @@
 ### Hello! I'm Felipe
-![giphy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhhOXhpMjZzeHRyanBuaHJ1eW1xNDMxN2ttdmh2MDRiNXZrcmthcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtVSBEzjz599tgxg9V/giphy.gif)
+<img align="left" alt="bokkoa | linkedin" width="100%" src="images/banner.png" style="margin-bottom: 1em;"/>
 
-## Software Engineer n Coffee Lover  <img src="images/laptop.png" width="25"/>
+## Software Engineer n Coffee Lover 💻
 
-- 🦈 Currently working as senior software engineer
+- 🌲 Currently working as senior software engineer
 - 😸 Working on personal projects too!
 - ☕️ Coffee brews, books and videogames are other of my interests!
 
-- I love this playlist ->
-[<img alt="spotify" style="margin-left: 10px" width="21px" src="images/spotify.png" />][spotifyplaylist]
-
-
 ### You can find me here:
+  
+[<img src="https://img.shields.io/badge/Website-teal?logo=netlify&logoColor=white" style="height:25px;">][website]
 
-[<img align="left" alt="bokkoa.github.io/FCReloaded/" width="21px" src="images/monitor.png" />][website]
-
-[<img align="left" alt="bokkoa | linkedin" width="21px" src="images/linkedin.png" />][linkedin]
-
-[<img align="left" alt="bokkoa | gitlab" width="21px" src="images/gitlab.png" />][gitlab]
-
-<br />
-
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 ## Stack
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
