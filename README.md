@@ -10,7 +10,7 @@
 ### You can find me here:
   
 [<img src="https://img.shields.io/badge/Website-teal?logo=netlify&logoColor=white" style="height:25px;">][website]
-
+<br />
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 ## Stack
