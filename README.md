@@ -1,5 +1,9 @@
-### Hello! I'm Felipe
-<img align="left" alt="bokkoa | linkedin" width="100%" src="images/banner.png" style="margin-bottom: 1em;"/>
+# Hello! I'm Felipe
+
+<kbd>
+<img align="left" width="100%" src="images/banner.png" />
+</kbd>
+
 
 ## Software Engineer n Coffee Lover 💻
 
@@ -10,7 +14,6 @@
 ### You can find me here:
   
 [<img src="https://img.shields.io/badge/Website-teal?logo=netlify&logoColor=white" style="height:25px;">][website]
-<br />
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 ## Stack
