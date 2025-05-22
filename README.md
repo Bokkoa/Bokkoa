@@ -51,7 +51,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bokkoa&show_icons=true&theme=radical)](https://github.com/Bokkoa/github-readme-stats)
 
 
-[website]:https://bokkoa.github.io/FCReloaded/
+[website]:https://bokkoa.github.io/fc-site/
 [linkedin]:https://www.linkedin.com/in/bokkoa/
 [gitlab]:https://gitlab.com/Bokkoa
 [spotifyplaylist]:https://open.spotify.com/playlist/1Hf9QiYoODGHXZupYyzEQt?si=2a3626494bfb40f9
